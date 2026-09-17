@@ -1,0 +1,17 @@
+{
+  "name": "NAIL-VIBES-SERVIDOR",
+  "version": "1.0.0",
+  "description": "Backend catalogo digital NAIL VIBES",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.15.3"
+  }
+}
