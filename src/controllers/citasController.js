@@ -5,7 +5,7 @@ import {
   confirmarPagoCitaModel,
   marcarCitaAtendidaModel,
   cancelarCitaModel,
-} from "../models/citaModel.js";
+} from "../models/citasModel.js";
 
 /* ============================================================
    CREAR CITA
