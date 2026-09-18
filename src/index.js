@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 4003;
 // ==========================================
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://cafe-express.tonav-tech.online",
+  "https://nails-vibe.toledanadev.com",
   process.env.FRONTEND_URL,
 ].filter(Boolean);
 // ==========================================
